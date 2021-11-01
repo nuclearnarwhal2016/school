@@ -1,0 +1,9 @@
+G:\Mr. Scanlon 2021- 2022\Period 4 - CP 1\Ophir, Elad\Row 3 Project\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+G:\Mr. Scanlon 2021- 2022\Period 4 - CP 1\Ophir, Elad\Row 3 Project\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+G:\Mr. Scanlon 2021- 2022\Period 4 - CP 1\Ophir, Elad\Row 3 Project\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+G:\Mr. Scanlon 2021- 2022\Period 4 - CP 1\Ophir, Elad\Row 3 Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csprojAssemblyReference.cache
+G:\Mr. Scanlon 2021- 2022\Period 4 - CP 1\Ophir, Elad\Row 3 Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+G:\Mr. Scanlon 2021- 2022\Period 4 - CP 1\Ophir, Elad\Row 3 Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+G:\Mr. Scanlon 2021- 2022\Period 4 - CP 1\Ophir, Elad\Row 3 Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+G:\Mr. Scanlon 2021- 2022\Period 4 - CP 1\Ophir, Elad\Row 3 Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+G:\Mr. Scanlon 2021- 2022\Period 4 - CP 1\Ophir, Elad\Row 3 Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
