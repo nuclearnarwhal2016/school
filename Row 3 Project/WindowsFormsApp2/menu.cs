@@ -17,8 +17,8 @@ namespace WindowsFormsApp2
         public int Quantity{
             get{return quantity;}
             set{quantity = value;}
-    }
-        public int Calories{
+         }
+         public int Calories{
         get{return calories;}
         set{calories = value;}
         }
@@ -41,4 +41,5 @@ namespace WindowsFormsApp2
         public void displayValues(Textbox incomingTextBox, foodType, quantity, calories){
                incomingTextBox.Text = Quantity.ToString() + " " + foodType + " calories:" + calories.ToString();
         }
+    }
 }
