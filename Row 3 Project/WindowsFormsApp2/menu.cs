@@ -8,5 +8,8 @@ namespace WindowsFormsApp2
 {
     class menu
     {
+       
+        int calories = (len(foodname))*20*Quantity;
+
     }
 }
