@@ -43,6 +43,10 @@ namespace WindowsFormsApp2
         get{return calories;}
         set{calories = value;}
         }
+        public int Cost{
+        get{return cost;}
+        set{cost = value};
+        }
         public string FoodType{
         get{return foodType;}
         set{FoodType = value;}
