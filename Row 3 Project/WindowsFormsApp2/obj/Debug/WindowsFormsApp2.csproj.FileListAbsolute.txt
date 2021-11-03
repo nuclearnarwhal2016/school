@@ -7,3 +7,12 @@ G:\Mr. Scanlon 2021- 2022\Period 4 - CP 1\Ophir, Elad\Row 3 Project\WindowsForms
 G:\Mr. Scanlon 2021- 2022\Period 4 - CP 1\Ophir, Elad\Row 3 Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
 G:\Mr. Scanlon 2021- 2022\Period 4 - CP 1\Ophir, Elad\Row 3 Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
 G:\Mr. Scanlon 2021- 2022\Period 4 - CP 1\Ophir, Elad\Row 3 Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb
+C:\Users\23jsong\Source\Repos\nuclearnarwhal2016\school\Row 3 Project\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe.config
+C:\Users\23jsong\Source\Repos\nuclearnarwhal2016\school\Row 3 Project\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.exe
+C:\Users\23jsong\Source\Repos\nuclearnarwhal2016\school\Row 3 Project\WindowsFormsApp2\bin\Debug\WindowsFormsApp2.pdb
+C:\Users\23jsong\Source\Repos\nuclearnarwhal2016\school\Row 3 Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.AssemblyReference.cache
+C:\Users\23jsong\Source\Repos\nuclearnarwhal2016\school\Row 3 Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.Properties.Resources.resources
+C:\Users\23jsong\Source\Repos\nuclearnarwhal2016\school\Row 3 Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.GenerateResource.cache
+C:\Users\23jsong\Source\Repos\nuclearnarwhal2016\school\Row 3 Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.csproj.CoreCompileInputs.cache
+C:\Users\23jsong\Source\Repos\nuclearnarwhal2016\school\Row 3 Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.exe
+C:\Users\23jsong\Source\Repos\nuclearnarwhal2016\school\Row 3 Project\WindowsFormsApp2\obj\Debug\WindowsFormsApp2.pdb

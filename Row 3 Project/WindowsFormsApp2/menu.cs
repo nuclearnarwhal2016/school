@@ -57,14 +57,6 @@ namespace WindowsFormsApp2
             calories = 0;
             foodType = '';
         }
-        public int calCalories(){
-            return len(foodType)*20*quantity;
-        }
-        public void ResetDisplay(Textbox incomingTextBox){
-            incomingTextBox.Clear();   
-        }
-        public void displayValues(Textbox incomingTextBox, foodType, quantity, calories){
-               incomingTextBox.Text = Quantity.ToString() + " " + foodType + " calories:" + calories.ToString();
-        }
+        
     }
 }
