@@ -38,10 +38,14 @@ namespace WindowsFormsApp2
         public int Quantity{
             get{return quantity;}
             set{quantity = value;}
-         }
-         public int Calories{
+        }
+        public int Calories{
         get{return calories;}
         set{calories = value;}
+        }
+        public int Price{
+        get{return price;}
+        set{price = value;}
         }
         public string FoodType{
         get{return foodType;}
